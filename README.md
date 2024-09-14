@@ -38,6 +38,8 @@ So all rights reserved to the creator of the extension
 
 7. Say thanks if you like the game and leave a review at https://chromewebstore.google.com/detail/subway-surfers-official/afanpbdmlbfmjbfofhbaaafcpmjfgfem (the developer i got the code form) 💓
 
+8. You can also download the browser extension if you like the game (again this extension is not mine) https://chromewebstore.google.com/detail/subway-surfers-official/afanpbdmlbfmjbfofhbaaafcpmjfgfem
+
 
 8. Enjoy 😁
 
